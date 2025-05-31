@@ -23,8 +23,15 @@
 
 ---
 
+## 📃 Project
+- [🧠 Project 1: Gender Classification](./Gender%20Classification/)
+  - Memprediksi gender dari wajah seseorang menggunakan model GoogleNet.
+
+
+---
+
 ## ⚠️ Disclaimer
-> Proyek ini merupakan tugas dari Bootcamp AI Indonesia yang dikerjakan secara mandiri.  
+> Proyek ini merupakan tugas dari AI Indonesia yang dikerjakan secara mandiri.  
 > **Tidak menyertakan atau menggunakan materi resmi dari AI Indonesia.**
 
 ---
