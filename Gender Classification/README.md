@@ -57,5 +57,6 @@ Model ini dilatih menggunakan dataset **CelebA**, yang merupakan dataset besar y
 ### 📄 **Disclaimer**:
 - Jumlah gambar yang digunakan untuk **training** model ini hanya sekitar **5.000-an gambar**.
 - Menggunakan **40 anotasi atribut biner** sebagai fitur dan **gender** sebagai target yang diprediksi.
+- Perbedaan alur pada setiap model dimungkinkan karena tiap anggota menerapkan pendekatan preprocessing yang berbeda, menyesuaikan dengan kebutuhan masing-masing arsitektur
 
 ---
