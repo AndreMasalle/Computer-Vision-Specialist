@@ -17,6 +17,7 @@
 ---
 
 ## 🧪 Eksplorasi Utama
+- 🧠 Machine Learning  
 - 🔍 Computer Vision  
 - 🧬 Deep Learning  
 - ⚙️ Transfer Learning  
@@ -36,7 +37,6 @@
 
 ---
 
-<div align="center">
 
 ```python
 # Learning never stops
